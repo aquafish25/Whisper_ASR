@@ -1,3 +1,3 @@
-### Whisper_ASR
+### ASR (Automatic Speech Recognition
 
-This repository is dedicated to building Automatic Speech Recognition (ASR) pipeline using OpenAI’s Whisper model.
+This repository is to build different Automatic Speech Recognition (ASR) pipelines.
